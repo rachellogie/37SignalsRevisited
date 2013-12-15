@@ -1,0 +1,228 @@
+header {
+	position: relative;
+	height:65px;
+	font-family: "Lucida Grande", sans-serif;
+	font-size: 12px;
+}
+
+#happy-day {
+	float: left;
+	color:grey;
+	padding:25px;
+	padding-left: 55px;
+}
+
+nav {
+	float:right;
+	padding:20px;
+	padding-right: 55px;
+}
+
+nav div {
+	float:right;
+	padding:5px 12px 5px 12px;
+}
+
+a {
+	text-decoration: none;
+	color:#369;
+}
+
+a:hover {
+	text-decoration: none;
+	color:#6699cc;
+}
+
+#sign-in {
+	color:#18afe0;
+}
+
+#sign-in:hover {
+	color:#369;
+}
+
+/* End of header bar. 	Start of statements.   */
+
+.logo-div {
+	padding: 10px;
+	padding-bottom: 20px;
+	
+}
+
+#logo {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.main-statement h1 {
+	text-align: center;
+	font-size: 55px;
+	font-family:"Crimson Text", serif;
+	letter-spacing: -1.5px;
+}
+
+
+
+.sub-heading h2 {
+	font-family:"Crimson Text", serif;
+	font-size: 20px;
+	text-align: center;
+	padding: 25px;
+}
+
+.hidden {
+	display: none;
+}
+
+.center {
+	text-align: center;
+}
+
+.temp {
+	width: 900px;
+	margin:0 auto;
+	
+}
+
+.product-titles {
+	color:#369;
+	text-decoration: underline;
+}
+
+.temp .main-statement h2{
+	font-size: 45px;
+	font-family:"Crimson Text", serif;
+	letter-spacing: -1.5px;
+	text-align: center;
+}
+
+.temp .sub-heading p {
+	font-family: "Lucida Grande", sans-serif;
+	font-size: 15px;
+	padding: 10px;
+	margin-bottom: 30px;
+	line-height: 20px;
+	text-align: center;
+}
+
+#arrow1 {
+	position: absolute;
+	margin-left: -168px;
+	margin-top: -35px;
+}
+
+#arrow2 {
+	position: absolute;
+	margin-left: 50px;
+	margin-top: -35px;
+}
+
+#arrow3 {
+	position: absolute;
+	margin-left: 100px;
+	margin-top: -35px;
+}
+
+
+
+
+/* end of statements.  start the three graphics-rectangles section */
+
+.rectangles {
+	height:250px;
+	width:180px;
+	border:1px solid #e8e8e8;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	background: -webkit-linear-gradient(white, #e8e8e8);
+	background: -moz-linear-gradient(white, #e8e8e8);
+	display: inline-block;
+	margin: 5px 15px 0 15px;
+
+}
+
+
+
+
+
+
+/* is there a way to make every item in rectangles have a certain padding, or text-align center??
+
+
+*/
+
+.products .first{
+	text-decoration: underline;
+	font-size: 20px;
+	color:#369;
+	padding:0;
+	margin-top: 40px;
+	
+	
+
+}
+
+
+
+sup {
+	color:grey;
+	font-size: 10px;
+	text-decoration: none;
+
+	vertical-align: top;
+
+	padding:0;
+	
+	
+
+
+}
+
+.under-name, .descriptions {
+	padding:10px;
+	position: relative;
+	top: 6px;
+}
+
+.under-name {
+	color:#cc0000;
+	font-size: 14px;	
+
+}
+
+.descriptions {
+	font-size: 14px;
+	font-weight: normal;
+	color:black;		
+
+}
+
+.icons {
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.graphics-div {
+	text-align: center;
+}
+
+.graphics-div a:hover {
+	color:#369;
+}
+
+.content-wrapper {
+	min-width:900px;
+}
+
+/* end of rectangles. start of asteriks */
+
+#asterisk-div {
+	text-align: center;
+	margin-top: 40px;
+}
+
+
+
+
